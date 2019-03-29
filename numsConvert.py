@@ -13,12 +13,8 @@ def num2string(num):
      
      numString = ""
 
-     ###################################
-     ### FILL IN YOUR CODE HERE      ###
-     ### Other than your name above, ###
-     ### this is the only section    ###
-     ### you change in this program. ###
-     ###################################
+     num = ["zero","one","two","three","four","five","six","seven","eight","nine"]
+     numString = num
 
      return(numString)
 
